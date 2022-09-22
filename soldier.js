@@ -35,6 +35,6 @@ const soldier = {
 
 };
 
-soldier.fire()
-soldier.reload()
-soldier.hurt()
+soldier.fire();
+soldier.reload();
+soldier.hurt();
